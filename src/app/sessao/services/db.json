@@ -1,0 +1,12 @@
+{
+ "produtos":[
+       {
+            "img": "../../assets/cafe.webp",
+            "nome": "Cafe muito bom",
+            "descricao":"500g por um baixo preço",
+            "id":1,
+            "valor":30
+
+        }
+    ]
+}
